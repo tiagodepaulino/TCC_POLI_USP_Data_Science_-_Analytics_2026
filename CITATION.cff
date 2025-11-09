@@ -8,11 +8,11 @@ message: >-
   from this file.
 type: dataset
 authors:
-  - given-names: Tiago
-    family-names: Alves de Paulino
+  - given-names: TIAGO
+    family-names: A. DE PAULINO
     email: tiago.depaulino@gmail.com
-  - given-names: João
-    family-names: Vitor Rego Muniz
+  - given-names: JOÃO
+    family-names: V. R. MUNIZ
     email: joaomuniz.prof@gmail.com
 url: >-
   https://github.com/tiagodepaulino/TCC_POLI_USP_Data_Science_-_Analytics_2026.git
